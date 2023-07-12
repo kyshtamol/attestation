@@ -24,15 +24,15 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 ### Создание тест-плана.
  В процессе тестирования приложения для учителей Skyeng в первую очередь было проведено приёмочное тестирование вкладки "Расписание". Составлены тест-кейсы по одному из требований стейкхолдеров с действиями над событиями/уроками:
 
-![image](https://github.com/kyshtamol/files/blob/main/trebovania.png)
+![image](https://github.com/kyshtamol/files/blob/main/raspisanie.png)
 
 Затем было выполнено тестирование требований по критериям:
 
-![image](https://github.com/kyshtamol/attestation/assets/138906791/7c9d1220-a09b-4c74-adba-66f8d4c208aa)
+![image](https://github.com/kyshtamol/files/blob/main/trebovania.png)
 
 Третьим шагом создана декомпозиция продукта:
 
-![image](https://github.com/kyshtamol/attestation/assets/138906791/b85c39a9-0731-45bb-a244-ac8190063e35)
+![image](https://github.com/kyshtamol/files/blob/main/decomposition.png)
 
 Декомпозиция создания события  https://miro.com/app/board/uXjVPhWmmuw=/ 
 
@@ -42,15 +42,19 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ### Составление тестовой документации
 Функциональный чек-лист для новой функции (личные события):
-![image](https://github.com/kyshtamol/attestation/assets/138906791/06994bc1-8095-4ee2-89ed-19bce6e4b74e)
+
+![image](https://github.com/kyshtamol/files/blob/main/functional%20check-list.png)
 
 Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 
 Чек-лист: https://chlist.sitechco.ru/project/37518/checklist/1446255/option
 
 Для тестирования API взят дополненный чек-лист расписания:
-![image](https://github.com/kyshtamol/attestation/assets/138906791/5e30f218-c7bf-4e65-8988-7ea8292a5105)
-![image](https://github.com/kyshtamol/attestation/assets/138906791/ff6caba9-f173-406d-a2f4-1aa3a0e111ab)
+
+![image](https://github.com/kyshtamol/files/blob/main/api%20check-list.png)
+![image](https://github.com/kyshtamol/files/blob/main/api%20check-list2.png)
+
+
 Тест-кейсы по ссылке на qase.io: https://app.qase.io/project/KW?previewMode=side&suite=3
 
 (Тест-кейсы postaman в прикреплённом файле коллекции)
@@ -58,24 +62,28 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Данные для входа qase - Логин: artem_rubov@rambler.ru   Пароль: 123456789
 
 Выполнено smoke-тестирование:
-![image](https://github.com/kyshtamol/attestation/assets/138906791/9975c44b-c506-4442-a318-10a5773b288c)
+
+![image](https://github.com/kyshtamol/files/blob/main/smoke%20test.png)
 
 ### Проведение тестирования
 Smoke-тестирование:
-![image](https://github.com/kyshtamol/attestation/assets/138906791/2c5e8b66-cf25-4f92-b1a8-f5cc6f2705b5)
+
+![image](https://github.com/kyshtamol/files/blob/main/smoke%20testing.png)
 
 
 Данные для входа qase - Логин: artem_rubov@rambler.ru   Пароль: 123456789
 
 
 Функциональное тестирование по чек-листу:
-![image](https://github.com/kyshtamol/attestation/assets/138906791/b3897b59-3d62-4581-ba09-d1c1c55f7134)
+
+![image](https://github.com/kyshtamol/files/blob/main/functional%20testing.png)
 
 Отчет по ссылке: Sitechco.ru 
 Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 
-Приёмочное тестирование по тест-кейсам 
-![image](https://github.com/kyshtamol/attestation/assets/138906791/cb78d207-e61c-44d1-9ddb-07104d50cba8)
+Приёмочное тестирование по тест-кейсам: 
+
+![image](https://github.com/kyshtamol/files/blob/main/priemochnoe%20testing.png)
 
 Отчет по ссылке: https://app.qase.io/run/1K/dashboard/1
 Данные для входа qase - Логин: artem_rubov@rambler.ru   Пароль: 123456789
@@ -87,8 +95,11 @@ Smoke-тестирование:
 Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 Функциональное тестирование API по дополненному чек-листу qase.io:
-![image](https://github.com/kyshtamol/attestation/assets/138906791/dc20d5c8-d3c1-4a4e-b106-e02720117251)
-![image](https://github.com/kyshtamol/attestation/assets/138906791/38ecba2c-52a2-42d0-803d-8bc3dc30fce0)
+
+![image](https://github.com/kyshtamol/files/blob/main/functional%20api%201.png)
+![image](https://github.com/kyshtamol/files/blob/main/functional%20api%202.png)
+
+
 ### Отчет о тестировании
 Готовность “Личных событий“
 
@@ -101,7 +112,9 @@ Smoke-тестирование:
  
 
 Проведено тестирование API вкладки расписание в postman, осуществлён полный цикл(прогон) всех тест-кейсов с действиями над личными событиями (отображение, создание, редактирование, удаление), из которого видно, что все действия с событием происходят четко (события создаются, удаляются и т.д.). Единственный найденный дефект (если его можно так назвать) - некорректный код ответа, например, при удалении/редактировании/создании несуществующего события хоть и написано not found но код - 200 OK вместо 404 not found
-![image](https://github.com/kyshtamol/attestation/assets/138906791/2fc645d6-5598-4112-b5b6-995d2a8223fb)
+
+
+![image](https://github.com/kyshtamol/files/blob/main/erorr%20scrin.png)
 
 
 Ссылка на проект : https://artemrubov.atlassian.net/wiki/spaces/~63980e8df3c3dfd71fe819b0/pages/65629/1+2.
