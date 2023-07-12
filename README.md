@@ -9,6 +9,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 ## Проекты
 ### Тест веб-приложения для учителей от Skyeng
+Ссылка на проект : https://artemrubov.atlassian.net/wiki/spaces/~63980e8df3c3dfd71fe819b0/pages/65629/1+2.
 
 ### Что нужно было сделать:
 
@@ -126,6 +127,9 @@ Smoke-тестирование:
 
 
 
+
+
+__________________________________________________________________________________________________________
 Контактная информация
 Email: artem_rubov@rambler.ru
 VK: https://www.linkedin.com/in/username/
