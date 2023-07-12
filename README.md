@@ -24,7 +24,7 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 ### Создание тест-плана.
  В процессе тестирования приложения для учителей Skyeng в первую очередь было проведено приёмочное тестирование вкладки "Расписание". Составлены тест-кейсы по одному из требований стейкхолдеров с действиями над событиями/уроками:
 
-![image](https://github.com/kyshtamol/attestation/assets/138906791/024eaa74-2379-431c-8f67-0c199b666d5b)
+![Image alt](https://github.com/kyshtamol/files/commit/067bd4f9f08af249b49e1ee1588b92c52a31c566#diff-2d5bc35d2c3a674136bd411fb50cb85016ba5304fe1413bddcd6e94dc6105abe/raspisanie.png)
 
 Затем было выполнено тестирование требований по критериям:
 
