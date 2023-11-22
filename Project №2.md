@@ -143,11 +143,9 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Где будут результаты отчетов о тестировании?
 - Чек-листы будут составлены в sitechco.ru, скриншоты интегрированы в проект
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 
 - Баг-репорты будут зафиксированы в багтрекинговую систему atlassian.net/jira, скриншоты/таблицы вложены в проект
 
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 - Отчет о тестировании является финальным этапом дипломного проекта
 
@@ -158,8 +156,6 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
 https://chlist.sitechco.ru/project/46276/checklist/1569414/details 
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
-
 ![image](https://github.com/kyshtamol/files/blob/main/dipl8.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl9.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl10.png)
@@ -169,7 +165,6 @@ https://chlist.sitechco.ru/project/46276/checklist/1569414/details
 
 https://chlist.sitechco.ru/project/46276/checklist/1569415/details 
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 
 ![image](https://github.com/kyshtamol/files/blob/main/dipl11.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl11.1.png)
@@ -184,7 +179,6 @@ https://chlist.sitechco.ru/project/46276/checklist/1569415/details
 ## Шаг 1. Проверка интерфейса веб-версии для П.
 Проводим функциональное тестирование по чек-листу для П. По результату будет приложен выполненный отчет из https://chlist.sitechco.ru/project/46276/checklist/result/262948/details:
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 ![image](https://github.com/kyshtamol/files/blob/main/dipl13.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl14.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl15.png)
@@ -192,7 +186,6 @@ https://chlist.sitechco.ru/project/46276/checklist/1569415/details
 
 Промежуточный итог: по результатам тестирования веб-приложения для (П) преподавателей было протестировано 44 кейса с множеством сценариев и выявлены 2 дефекта. Обнаруженные баги зафиксированы и занесены в https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
 
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 дефект поиска видео:
 ![image](https://github.com/kyshtamol/files/blob/main/dipl17.png)
@@ -249,8 +242,6 @@ https://vimbox.skyeng.ru/lesson/hlhusazure/start
 
 Дефекты зафиксированы и занесены в https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
 
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
-
 время ответа больше нормы:
 ![image](https://github.com/kyshtamol/files/blob/main/dipl31.png)
 
@@ -263,19 +254,16 @@ https://vimbox.skyeng.ru/lesson/hlhusazure/start
 
 Проводим функциональное тестирование мобильного приложения по чек-листу для У. По результату будет приложен выполненный отчет из https://chlist.sitechco.ru/project/46276/checklist/result/263015/details:
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 ![image](https://github.com/kyshtamol/files/blob/main/dipl33.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl34.png)
 
 Проводим специальное мобильно тестирование приложения по чек-листу для У. По результату будет приложен выполненный отчет из https://chlist.sitechco.ru/project/46276/checklist/result/263016/details:
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 ![image](https://github.com/kyshtamol/files/blob/main/dipl35.png)
 ![image](https://github.com/kyshtamol/files/blob/main/dipl36.png)
 
 Промежуточный итог:  для (У) учеников было проведено функциональное и специальное мобильное тестирование приложения. Обнаружены баги в количестве 2 шт., связанные с мобильным функционалом приложения  зафиксированы и занесены в https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
 
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 дефект изменения темной/светлой темы:
 ![image](https://github.com/kyshtamol/files/blob/main/dipl37.png)
@@ -289,17 +277,13 @@ https://vimbox.skyeng.ru/lesson/hlhusazure/start
 
 В данном дипломном проекте стояла задача протестировать функционал раздела “видеопрактика” приложения Skyeng. После знакомства с требованиями (сценариями) был составлен тест-план, по которому в дальнейшем была произведена последовательность действий. После чего создана тестовая документация, заключающаяся в основном в составлении чек-листов, включающих в себя функциональные тесты с применением основных тестовых сценариев, для тестирования проекта. Следующим шагом выбрано окружение (среда) для тестирования, а именно определение подходящих устройств, браузеров, ОС и т.д. После определения работ и составления тестовой документации все готово для проведения тестирования. Следовательно было проведено:
 
-Функциональное тестирование веб-приложения для преподавателей по чек листу https://chlist.sitechco.ru/project/46276/checklist/1569414/details  :  Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
+Функциональное тестирование веб-приложения для преподавателей по чек листу https://chlist.sitechco.ru/project/46276/checklist/1569414/details  
 
 Применены 44 кейса функциональных проверок, включающих в себя основные тестовые сценарии. Чек-лист успешно пройден на 95% и выявлены 2 бага высокого приоритета, зафиксированные в https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
-
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 Тестирование API:
 
 Создана коллекция API запросов, состоящая из 3 GET запросов, имеющих каждый по копии с измененными параметрами запроса. Параметры запросов изменялись для проверки некоторых тестовых сценариев а так же включали в себя проверки тела ответа. По завершению API тестирования выявились 2 дефекта низкого приоритета, связанные с быстродействием и форматом ответа. Выявленные дефекты также были занесены в https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
-
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 Тестирование мобильного приложения для учеников было разделено на 2 части:
 
@@ -307,11 +291,9 @@ https://vimbox.skyeng.ru/lesson/hlhusazure/start
 
 Чек-лист успешно выполнен на 100%, 21 кейс проверен, дефектов/багов не выявлено.
 
-Тестирование специального мобильного функционала раздела “видеопрактика” приложения Skyeng по чек-листу https://chlist.sitechco.ru/project/46276/checklist/1569415/details Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
+Тестирование специального мобильного функционала раздела “видеопрактика” приложения Skyeng по чек-листу https://chlist.sitechco.ru/project/46276/checklist/1569415/details
 
 По чек-листу произведены проверки 21-го кейса, зафиксировано 2 бага среднего приоритета, связанных с мобильным функционалом. Баги занесены в https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
-
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 Основное время было потрачено на составление тестовой документации и проведение тестирования - 10 часов. Все остальное дополнительное время заняло оформление проекта, изучение требований, занесение багов и отчетов в соответствующие системы, действия связанные с API тестированием.
 
@@ -319,14 +301,11 @@ https://vimbox.skyeng.ru/lesson/hlhusazure/start
 
 https://chlist.sitechco.ru/project/46276/checklist
 
-Данные для входа sitechko - Логин: artem_rubov@rambler.ru   Пароль: gezq6q0jtd
 ![image](https://github.com/kyshtamol/files/blob/main/dipl39.png)
 
 Все выявленные баги проекта:
 
 https://artemrubov.atlassian.net/jira/software/projects/DPLM/boards/18/backlog
-
-Данные для входа jira - Логин: artemrubovjinr@gmail.com   Пароль: 123456789
 
 ![image](https://github.com/kyshtamol/files/blob/main/dipl40.png)
 
@@ -336,4 +315,4 @@ Skyeng является крупнейшей онлайн-школой для и
 __________________________________________________________________________________________________________
 Контактная информация
 Email: artem_rubov@rambler.ru
-VK: https://www.linkedin.com/in/username/
+
