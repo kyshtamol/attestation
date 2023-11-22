@@ -120,5 +120,5 @@ Smoke-тестирование:
 __________________________________________________________________________________________________________
 Контактная информация
 Email: artem_rubov@rambler.ru
-VK: https://www.linkedin.com/in/username/
+hh.ru: https://dubna.hh.ru/resume/6e189996ff0c5347a90039ed1f536e66463065
 
